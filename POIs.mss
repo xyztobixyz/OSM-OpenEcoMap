@@ -9,7 +9,7 @@
     text-name:'';
     text-face-name:"Open Sans Bold","DejaVu Sans Bold","unifont Medium";
     text-placement:point;
-    text-fill:@road_text;
+    text-fill:#777;
     text-size:11;
     
     [zoom = 14]{
