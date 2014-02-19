@@ -36,11 +36,7 @@
         "geometry_field": "",
         "extent_cache": "auto",
         "extent": "646450.383495756,5750606.13244708,1194143.1130186,6117386.56995709",
-        "host": "152.96.80.47",
-        "port": "5432",
-        "user": "postgres",
-        "password": "postgres",
-        "dbname": "osmswissfinal"
+        "dbname": "gis"
       },
       "id": "POI_lines",
       "class": "",
