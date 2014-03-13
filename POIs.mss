@@ -143,19 +143,19 @@
       marker-file:url(img/POIs/Toiletts.png);
     }
     [railway='station']{
-      marker-file:url(img/POIs/TrainStation.png);
+      marker-file:url(img/POIs/TrainStationNew.png);
     }
     [highway='bus_stop']{
-      marker-file:url(img/POIs/BusStation.png);
+      marker-file:url(img/POIs/BusStationNew.png);
     }
     [amenity='ferry_terminal']{///////////////////////////////////
-      marker-file:url(img/POIs/FerryStation.png);
+      marker-file:url(img/POIs/FerryStationNew.png);
     }
     [railway='tram_stop']{
-      marker-file:url(img/POIs/TramStation.png);
+      marker-file:url(img/POIs/TramStationNew.png);
     }
     [railway='subway_entrance']{////////////////////////////////////
-      marker-file:url(img/POIs/TramStation.png);
+      marker-file:url(img/POIs/TramStationNew.png);
     }
     [railway='subway']{//////////////////////////////////////////////
     }
